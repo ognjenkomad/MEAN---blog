@@ -1,0 +1,25 @@
+{
+  "name": "mean-ng2",
+  "version": "1.0.0",
+  "description": "Simple MEAN STACK app with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK"
+  ],
+  "author": "Ognjen Komad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15",
+    "cors": "*",
+    "bcryptjs": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "body-parser": "*"
+  }
+}
